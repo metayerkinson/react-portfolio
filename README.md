@@ -77,6 +77,8 @@ The use of a web browser.
 
 ## Questions
 
-GitHub Link: [https://github.com/metayerkinson](https://github.com/metayerkinson)
+Repository Link: [https://github.com/metayerkinson/react-portfolio](https://github.com/metayerkinson/react-portfolio)
+
+Github pages live Link: https://metayerkinson.github.io/react-portfolio/
 
 Please contact me at metayerkinson@gmail.com with any additional questions you may have.
