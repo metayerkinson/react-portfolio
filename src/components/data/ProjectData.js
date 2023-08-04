@@ -16,7 +16,7 @@ export const projects = [
     url: "https://dpk5e7-book-search-engine.herokuapp.com/",
     image: imgBookSearchEngine,
     description:
-      "Challenge #21 for the University of Denver Coding Bootcamp 2023. The purpose of this challenge is to build a MERN stack application.",
+      "Challenge #21 for the University of Central Florida Coding Bootcamp 2023. The purpose of this challenge is to build a MERN stack application.",
     technologies: "MongoDB, Express, React, Node, Apollo Server, & GraphQL",
     GitHubRepo: "https://github.com/dpk5e7/book-search-engine/",
   },
@@ -25,7 +25,7 @@ export const projects = [
     url: "https://github.com/metayerkinson/social-network-api",
     image: imgSocialNetworkAPI,
     description:
-      "Challenge #18 for the University of Denver Coding Bootcamp 2023. The purpose of this challenge is to understand the unstructured nature of NoSQL by building an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
+      "Challenge #18 for the University of Central Florida Coding Bootcamp 2023. The purpose of this challenge is to understand the unstructured nature of NoSQL by building an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
     technologies: "Node.js, Express.js, MongoDB, & Mongoose",
     GitHubRepo: "https://github.com/metayerkinson/nosql-social-network-app",
   },
@@ -35,7 +35,7 @@ export const projects = [
     url: "https://github.com/metayerkinson/e-commerce-back-end",
     image: imgECommerceBackend,
     description:
-      "Challenge #13 for the University of Denver Coding Bootcamp 2023. The purpose of this challenge is to build a back end for a generic e-commerce site using one-to-many and many-to-many database relationships.",
+      "Challenge #13 for the University of Central Florida Coding Bootcamp 2023. The purpose of this challenge is to build a back end for a generic e-commerce site using one-to-many and many-to-many database relationships.",
     technologies: "Node.js, Express.js, MySQL, & Sequelize",
     GitHubRepo: "https://github.com/metayerkinson/ecommerce-backend",
   },
@@ -44,7 +44,7 @@ export const projects = [
     url: "https://github.com/metayerkinson/employee-tracker",
     image: imgEmployeeTracker,
     description:
-      "Challenge #12 for the University of Denver Coding Bootcamp 2023. The purpose of this challenge is to build a command-line application to manage a company's employee database.",
+      "Challenge #12 for the University of Central Florida Coding Bootcamp 2023. The purpose of this challenge is to build a command-line application to manage a company's employee database.",
     technologies: "Node.js, Inquirer v8.2.4, dotenv, & MySQL",
     GitHubRepo: "https://github.com/metayerkinson/employee-tracker",
   },
@@ -53,7 +53,7 @@ export const projects = [
     url: "https://github.com/metayerkinson/note-taker",
     image: imgNoteTaker,
     description:
-      "Challenge #11 for the University of Denver Coding Bootcamp 2023. The purpose of this challenge is to build a note taker application to save and retreive data from a JSON file.",
+      "Challenge #11 for the University of Central Florida Coding Bootcamp 2023. The purpose of this challenge is to build a note taker application to save and retreive data from a JSON file.",
     technologies: "Node.js, Express.js",
     GitHubRepo: "https://github.com/metayerkinson/note-taker",
   },
@@ -62,7 +62,7 @@ export const projects = [
     url: "https://github.com/metayerkinson/readme-generator/",
     image: imgReadmeGenerator,
     description:
-      "Challenge #9 for the University of Denver Coding Bootcamp 2023. The purpose of this challenge is to build a GitHub README generator.",
+      "Challenge #9 for the University of Central Florida Coding Bootcamp 2023. The purpose of this challenge is to build a GitHub README generator.",
     technologies: "Node.js & Inquirer v8.2.4",
     GitHubRepo: "https://github.com/metayerkinson/readme-generator/",
   },
@@ -71,7 +71,7 @@ export const projects = [
     url: "https://github.com/metayerkinson/weather-dashboard",
     image: imgWeatherDashboard,
     description:
-      "Challenge #6 for the University of Denver Coding Bootcamp 2023. The purpose of this challenge is to build a weather dashboard that calls the OpenWeather API.",
+      "Challenge #6 for the University of Central Florida Coding Bootcamp 2023. The purpose of this challenge is to build a weather dashboard that calls the OpenWeather API.",
     technologies: "HTML, CSS, Moment.js, Bootstrap 5.2, & OpenWeather API",
     GitHubRepo: "https://github.com/metayerkinson/weather-dashboard",
   },
@@ -80,7 +80,7 @@ export const projects = [
     url: "https://github.com/metayerkinson/work-day-scheduler",
     image: imgWorkDayScheduler,
     description:
-      "Challenge #5 for the University of Denver Coding Bootcamp 2023. The purpose of this challenge is to build a work day scheduler.",
+      "Challenge #5 for the University of Central Florida Coding Bootcamp 2023. The purpose of this challenge is to build a work day scheduler.",
     technologies: "HTML, CSS, jQuery, Moment.js & Bootstrap 5.2",
     GitHubRepo: "https://github.com/metayerkinson/work-day-scheduler",
   },
@@ -90,7 +90,7 @@ export const projects = [
     url: "https://github.com/metayerkinson/password-generator",
     image: imgPasswordGenerator,
     description:
-      "Challenge #3 for the University of Denver Coding Bootcamp 2023. The purpose of this challenge is to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected.",
+      "Challenge #3 for the University of Central Florida Coding Bootcamp 2023. The purpose of this challenge is to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected.",
     technologies: "Javascript",
     GitHubRepo: "https://github.com/metayerkinson/password-generator",
   },

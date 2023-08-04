@@ -38,16 +38,10 @@ export default function Home() {
           <div style={{ backgroundColor: "#F2FCFA" }}>
             <h3>My Background</h3>
             <p className="myBackgroundText">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop
-              publishing software like Aldus PageMaker including versions of
-              Lorem Ipsum.
+              My name is Kinson Metayer, I have been in the insurance industry
+              as a Claims Adjuster and an Insurance Agent since 2017. I am
+              currently learning Html, CSS, and Javascript.I find Coding
+              challenge but every little win is satisfying to me...
             </p>
           </div>
         </section>
