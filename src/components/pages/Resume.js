@@ -8,7 +8,7 @@ export default function Resume() {
         <button style={{ backgroundColor: "blue", color: "white" }}>
           <p style={{ textAlign: "left" }}>
             Download my{" "}
-            <a href="/downloads/" alt="Resume" download>
+            <a href="/downloads/" alt="Resume" id="#resume" download>
               resume
             </a>
           </p>
