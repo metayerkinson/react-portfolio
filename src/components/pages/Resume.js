@@ -17,14 +17,12 @@ export default function Resume() {
         <ul>
           <li>HTML, CSS, JavaScript</li>
           <li>React</li>
-          <li>Leaflet, MapBox</li>
+
           <li>Bootstrap, SASS</li>
           <li>RESTful APIs</li>
         </ul>
         <h3>Back-End Proficiencies:</h3>
         <ul>
-          <li>C#</li>
-          <li>ASP.NET</li>
           <li>Node.js</li>
           <li>Express.js</li>
           <li>MS SQL, MySQL, MongoDB</li>
