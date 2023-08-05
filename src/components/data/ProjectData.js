@@ -18,7 +18,7 @@ export const projects = [
     description:
       "Challenge #21 for the University of Central Florida Coding Bootcamp 2023. The purpose of this challenge is to build a MERN stack application.",
     technologies: "MongoDB, Express, React, Node, Apollo Server, & GraphQL",
-    GitHubRepo: "https://github.com/dpk5e7/book-search-engine/",
+    GitHubRepo: "https://github.com/metayerkinson/mern-book-search-engine/",
   },
   {
     title: "Social Network API",
