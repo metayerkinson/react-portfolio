@@ -1,5 +1,5 @@
 // Import my picture
-import headshot from "../../images/";
+import headshot from "../../images/kinson.jpg";
 
 // Builds the component to show my headshot and a short bio.
 export default function Home() {
