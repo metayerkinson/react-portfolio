@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.78f21e8b.css",
-    "main.js": "/static/js/main.f4540646.js",
-    "static/media/readme-generator.jpg": "/static/media/readme-generator.ec82b3e7d50b480251b2.jpg",
-    "service-worker.js": "/service-worker.js",
-    "static/media/employee-tracker.jpg": "/static/media/employee-tracker.1eae84bf35778c14c85a.jpg",
-    "static/media/kinson.jpg": "/static/media/kinson.34c8d0bcc8fbc3da4ec0.jpg",
-    "static/media/weather-dashboard.jpg": "/static/media/weather-dashboard.53057896367bdc939350.jpg",
-    "static/media/book-search-engine.jpg": "/static/media/book-search-engine.3f39edbd15fea2f0d8b0.jpg",
-    "static/media/work-day-scheduler.jpg": "/static/media/work-day-scheduler.fd29a3ed0047c1ce816f.jpg",
-    "static/media/e-commerce-back-end.jpg": "/static/media/e-commerce-back-end.28c2663d514bbb9e11a4.jpg",
-    "static/media/password-generator.jpg": "/static/media/password-generator.3ef71be901a0f09930e7.jpg",
-    "static/media/social-network-api.jpg": "/static/media/social-network-api.4ea725e2eeb6102fc2f5.jpg",
-    "static/media/github.svg": "/static/media/github.b7c08b5ad64a5af85516b8ec5b67339f.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.2f72048cac99eb15f4c8fe8ef1ec5562.svg",
-    "index.html": "/index.html",
-    "main.78f21e8b.css.map": "/static/css/main.78f21e8b.css.map",
-    "main.f4540646.js.map": "/static/js/main.f4540646.js.map"
+    "main.css": "/react-portfolio/static/css/main.78f21e8b.css",
+    "main.js": "/react-portfolio/static/js/main.7350ae2e.js",
+    "static/media/readme-generator.jpg": "/react-portfolio/static/media/readme-generator.ec82b3e7d50b480251b2.jpg",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/media/employee-tracker.jpg": "/react-portfolio/static/media/employee-tracker.1eae84bf35778c14c85a.jpg",
+    "static/media/kinson.jpg": "/react-portfolio/static/media/kinson.34c8d0bcc8fbc3da4ec0.jpg",
+    "static/media/weather-dashboard.jpg": "/react-portfolio/static/media/weather-dashboard.53057896367bdc939350.jpg",
+    "static/media/book-search-engine.jpg": "/react-portfolio/static/media/book-search-engine.3f39edbd15fea2f0d8b0.jpg",
+    "static/media/work-day-scheduler.jpg": "/react-portfolio/static/media/work-day-scheduler.fd29a3ed0047c1ce816f.jpg",
+    "static/media/e-commerce-back-end.jpg": "/react-portfolio/static/media/e-commerce-back-end.28c2663d514bbb9e11a4.jpg",
+    "static/media/password-generator.jpg": "/react-portfolio/static/media/password-generator.3ef71be901a0f09930e7.jpg",
+    "static/media/social-network-api.jpg": "/react-portfolio/static/media/social-network-api.4ea725e2eeb6102fc2f5.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/github.svg": "/react-portfolio/static/media/github.b7c08b5ad64a5af85516b8ec5b67339f.svg",
+    "static/media/linkedin.svg": "/react-portfolio/static/media/linkedin.2f72048cac99eb15f4c8fe8ef1ec5562.svg",
+    "main.78f21e8b.css.map": "/react-portfolio/static/css/main.78f21e8b.css.map",
+    "main.7350ae2e.js.map": "/react-portfolio/static/js/main.7350ae2e.js.map"
   },
   "entrypoints": [
     "static/css/main.78f21e8b.css",
-    "static/js/main.f4540646.js"
+    "static/js/main.7350ae2e.js"
   ]
 }
