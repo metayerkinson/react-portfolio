@@ -13,7 +13,7 @@ import imgBookSearchEngine from "../../images/book-search-engine.jpg";
 export const projects = [
   {
     title: "Book Search Engine",
-    url: "https://dpk5e7-book-search-engine.herokuapp.com/",
+    url: "https://github.com/metayerkinson/mern-book-search-engine/",
     image: imgBookSearchEngine,
     description:
       "Challenge #21 for the University of Central Florida Coding Bootcamp 2023. The purpose of this challenge is to build a MERN stack application.",
