@@ -15,7 +15,7 @@ export default function Resume() {
         </button>
         <h3>Front-End Proficiencies:</h3>
         <ul>
-          <li>HTML, CSS, JavaScript</li>
+          <li>HTML, CSS, JavaScript.</li>
           <li>React</li>
 
           <li>Bootstrap, SASS</li>
